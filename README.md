@@ -6,17 +6,17 @@
 
 ## 👥 Our Dream Team
 
-### 🧙‍♂️ Dankbudbaker
-**Role:** Developer Extraordinaire
-- 💻 Code Wizard
-- 🚀 FiveM Expert
-- 🎮 Gaming Enthusiast
-
 ### 🎩 Jbombz
 **Role:** CEO & Visionary
 - 💼 Strategic Leadership
 - 🌐 Community Builder
 - 💡 Innovation Driver
+
+### 🧙‍♂️ Dankbudbaker
+**Role:** Developer Extraordinaire
+- 💻 Code Wizard
+- 🚀 FiveM Expert
+- 🎮 Gaming Enthusiast
 
 ### 🛡️ Str8upDubz
 **Role:** Admin Extraordinaire
